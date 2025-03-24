@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+*.env
+freddie.db
+token.pickle
+client_secret.json
+*.log
+docker-compose.override.yml
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
